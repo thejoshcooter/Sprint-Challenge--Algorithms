@@ -12,4 +12,9 @@ c) The running time of problem c is O(n) because we are using a recursive functi
 
 ## Exercise II
 
+// define a function that takes in an arbitrary number of stories as a parameter
+// loop through the range of floors and toss an egg at each interval
+// write a condition to check if the egg is broken - if it is then return that floor
+// otherwise continue through the floor until the broken egg is true
 
+The runtime complexity would be O(n^2) because of our conditional checks within a loop.
